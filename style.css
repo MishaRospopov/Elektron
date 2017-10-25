@@ -1,0 +1,88 @@
+h1, h2, h3, h4, h5, h6, body, p {
+    margin: 0;
+    padding: 0;
+    //font-family: "Monotype Corsiva" Cursive;
+}
+.main{
+     height: auto;
+     width: auto;
+    }
+.left{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 3%;
+    color: #343333;
+    float: left;
+    text-align: center;
+    background-color: #d4d5d7;
+    height: 100%;
+    width: 20%;
+    }
+.right {
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 2.1%;
+    text-align: center;
+    float: right;
+    background-color: #57585a;
+    height: 100%;
+    width: 76%;
+    color: azure;
+}
+.img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+.zag{
+    text-align: center;
+    font-size: 17pt;
+}
+.text{
+    font-style: oblique;
+    font-size: 12pt; 
+}
+.data{
+    float: left;
+    width: 20%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.tsifri
+{
+    text-align: right;
+}
+.pravo{
+   float: right;
+    width: 70%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.dani{
+    text-align: left;
+}
+.data1{
+    float: left;
+    width: 20%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.pravo1{
+   float: right;
+    width: 70%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.hob{
+    
+}
+.right-bottom p {
+     font-family: 'Open Sans', sans-serif;
+     font-size: 15px;
+}
+#content {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 57px;
+    margin-top: 20px;
+}
